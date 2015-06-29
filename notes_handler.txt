@@ -1,0 +1,3 @@
+recieve request
+take content of form, put in variable
+send request

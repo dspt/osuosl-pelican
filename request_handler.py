@@ -10,8 +10,6 @@ from werkzeug.utils import redirect
 from werkzeug.formparser import parse_form_data
 from email.mime.text import MIMEText
 
-def dispatch_request(request):
-
 def get_request(request):
     if request.method == 'POST':
         form_data = request.form

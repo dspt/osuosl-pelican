@@ -1,6 +1,7 @@
 Members
 =======
 :slug: friends/members
+:order: 100
 
 Thanks to the kind support of the following groups and individuals, the Oregon
 State University Open Source Lab is able to provide world-class hosting services
@@ -38,7 +39,7 @@ the open source community.
 
 
 | K. Lars Lohn
-| 
+|
 
 Parrot Foundation:  The `Parrot Foundation`_ is a membership-based, nonprofit
 organization that provides technical, legal and organizational infrastructure
